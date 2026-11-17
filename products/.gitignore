@@ -1,0 +1,31 @@
+# Environment variables
+**/.env
+**/.env.*
+!.env.example
+
+# Python virtual environments
+**/env/
+**/venv/
+**/.venv/
+
+# Python cache
+**/__pycache__/
+*.py[cod]
+
+# PyCharm
+**/.idea/
+
+# Private keys
+**/private.pem
+
+# Django
+**/db.sqlite3
+**/media/
+**/staticfiles/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
