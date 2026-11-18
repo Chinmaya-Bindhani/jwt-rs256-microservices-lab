@@ -5,8 +5,7 @@ from datetime import  timedelta
 import  dj_database_url
 from pathlib import Path
 
-import rest_framework.permissions
-import rest_framework_simplejwt.authentication
+
 from dotenv import  load_dotenv
 load_dotenv()
 import os
